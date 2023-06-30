@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jerinGeorgeDavid
 - 👀 I’m interested in development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning springboot
+- >> Working as a android dev (Java)
 - 📫 How to reach me jeringeorgedavid4545@gmail.com
 
 <!---
